@@ -33,4 +33,4 @@ https://github.com/paul19670421/DVD-ROM-Plotter-Inkscape-extension-file
 
 set file PlotterInkscape.inx and PlotterInkscape.py to C:\Program Files\Inkscape\share\inkscape\extensions
 
-5、chrome://apps/ gcode-sender
+5、DVD_ROM_Plotter control APP chrome://apps/gcode-sender
