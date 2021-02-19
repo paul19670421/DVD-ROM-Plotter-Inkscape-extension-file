@@ -18,5 +18,5 @@ inkscape downloaded from  https://inkscape.org/zh-hant/release/inkscape-1.0.2/
 
 4、set Inkscape-extension file
 Inkscape-extension file downloaded from
-
+https://github.com/paul19670421/DVD-ROM-Plotter-Inkscape-extension-file
 set file PlotterInkscape.inx and PlotterInkscape.py to C:\Program Files\Inkscape\share\inkscape\extensions
