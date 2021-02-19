@@ -19,7 +19,7 @@ Softward
 
 1、arduino driver from https://www.arduino.cc/en/software
 
-2、arduino plotter driver from https://github.com/BEEMB/CNC_Plotter
+2、arduino UNO plotter driver from https://github.com/BEEMB/CNC_Plotter
 
 3、use inkscape to save the Gcode file 
 
